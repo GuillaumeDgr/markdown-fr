@@ -12,22 +12,25 @@ To produce a code block in Markdown, simply indent every line of the block by at
 
 For example:
 
-```
 This is a normal paragraph:
 
+```
     This is a code block.
+```
 
 You can also create code block separated by:
+```
 
     ```
-
+```
 ### Inline code blocks
 
 Inline code blocks can be written using: `
 
 For example:
-
+```
     This is a `inline code block`
+```
 
 ### Syntax highlighting
 
